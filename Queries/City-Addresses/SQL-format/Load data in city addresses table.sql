@@ -1,0 +1,1 @@
+LOAD DATA INPATH '\HdiSamples\Addresses_in_the_City_of_Los_Angeles.csv'OVERWRITE INTO TABLE CITY_ADDRESSES;
