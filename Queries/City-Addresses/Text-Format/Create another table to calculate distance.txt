@@ -1,0 +1,1 @@
+Create table if not exists location_dis1(LAT double,LON double,DIR STRING,ASGN_STTS_IND STRING,distance double);
